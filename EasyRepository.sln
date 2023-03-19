@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyRepository.EntityFramew
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyRepository.Tests", "tests\EasyRepository.Tests\EasyRepository.Tests.csproj", "{F8CCDF63-9844-41B0-AF6B-20FA6B307E47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyRepository.Extensions.Specifications", "EasyRepository.Extensions.Specifications\EasyRepository.Extensions.Specifications.csproj", "{8884468C-58A7-499C-8775-7680EBCF3D77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{F8CCDF63-9844-41B0-AF6B-20FA6B307E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8CCDF63-9844-41B0-AF6B-20FA6B307E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8CCDF63-9844-41B0-AF6B-20FA6B307E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8884468C-58A7-499C-8775-7680EBCF3D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8884468C-58A7-499C-8775-7680EBCF3D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8884468C-58A7-499C-8775-7680EBCF3D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8884468C-58A7-499C-8775-7680EBCF3D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{0CCC7A18-C727-4A2D-9A68-371E4A639027} = {A10570E7-E6D3-4222-9D50-8C3A044A6100}
 		{C83358AC-C5D2-41F0-AD87-7947FAC7F135} = {A10570E7-E6D3-4222-9D50-8C3A044A6100}
 		{F8CCDF63-9844-41B0-AF6B-20FA6B307E47} = {8692BE1F-17A0-4E3F-97DC-E65958D34D5F}
+		{8884468C-58A7-499C-8775-7680EBCF3D77} = {A10570E7-E6D3-4222-9D50-8C3A044A6100}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0B2DDB0-241B-42A1-9F40-BD15DA6A2E78}
